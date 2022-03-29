@@ -1,0 +1,11 @@
+Title : Instant Dictionary Web App
+Description: A web app that lets user type in a text box and returns the English definition of that instantly as soon as the user has fininshed typing.
+The web app consists of a website with a navigation menu, a Home ,Dictionary, and About page.
+Objects: Definition:
+         term
+         get()
+       Navbar
+       HomePage
+       DictionaryPage
+       AboutPage
+
